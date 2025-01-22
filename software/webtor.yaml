@@ -1,0 +1,12 @@
+name: Webtor
+website_url: https://github.com/webtor-io/self-hosted
+description: Web-based torrent-client with instant streaming.
+licenses:
+  - MIT
+platforms:
+  - Go
+  - Docker
+tags:
+  - File Transfer - Peer-to-peer Filesharing
+source_code_url: https://github.com/webtor-io/self-hosted
+demo_url: https://webtor.io
